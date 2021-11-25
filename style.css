@@ -1,4 +1,7 @@
-body {background-color:tan;}
-h1{color:green;}
-
+body {background-color:black;font-family: arial;color: white;align:center}
+h1 {color:grey;font-family: verdana;}
+table {margin-left:5em;}
+td {width: 25em}
+.maindiv {background-color: white;color:black;width: 500px;
+    padding: 20px;border-radius: 25px;align: center;}
 
